@@ -1,0 +1,11 @@
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\StockMarketPrediction\StockMarketPrediction\bin\Debug\StockMarketPrediction.exe
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\StockMarketPrediction\StockMarketPrediction\bin\Debug\StockMarketPrediction.pdb
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\StockMarketPrediction\StockMarketPrediction\obj\Debug\ResolveAssemblyReference.cache
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\StockMarketPrediction\StockMarketPrediction\obj\Debug\StockMarketPrediction.exe
+\\studentserver\Admin\Ryan\My Documents\Visual Studio 2008\Projects\StockMarketPrediction\StockMarketPrediction\obj\Debug\StockMarketPrediction.pdb
+C:\Users\Ryan\Desktop\StockMarketPrediction\StockMarketPrediction\bin\Debug\StockMarketPrediction.exe.config
+C:\Users\Ryan\Desktop\StockMarketPrediction\StockMarketPrediction\obj\Debug\StockMarketPrediction.exe
+C:\Users\Ryan\Desktop\StockMarketPrediction\StockMarketPrediction\obj\Debug\StockMarketPrediction.pdb
+C:\Users\Ryan\Desktop\StockMarketPrediction\StockMarketPrediction\bin\Debug\StockMarketPrediction.exe
+C:\Users\Ryan\Desktop\StockMarketPrediction\StockMarketPrediction\bin\Debug\StockMarketPrediction.pdb
+C:\Users\Ryan\Desktop\StockMarketPrediction\StockMarketPrediction\obj\Debug\StockMarketPrediction.csprojResolveAssemblyReference.cache
